@@ -2,6 +2,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oWmOqxIanjk?si=5-d7lzG1Y7dDdOUq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+HTML
 <nav> : Etiqueta que representa la seccion de una pagina, la cual sirve para proporcionar los enlaces de navegacion, ya sea en la misma pagina o hacia otra pagina
 <header> : ES diferente al head, va dentro de la pagina representando la parte superior de esta
 <head> : Representa la parte superior de la pagina, se puede interpretar como el encabezado
@@ -11,3 +12,8 @@
 <form> : Se usa para una seccion sobre la cual el usuario puede enviar datos al servidor, la cual contiene controles interactivos
 <i> : Crea una caja en linea, para introducir texto
 <input> : Sirve para poner elementos input  en cualquier parte de un documento dentro de un formulario
+
+CSS
+display: Se usa para asginar que orientacion se usara, ya sea flex, grid, u otro
+Flow layout: Es la orientacion normal de los items dentro de una pagina web, el orden normal es como si fuera un parrafo, un elemento tras otro
+max
